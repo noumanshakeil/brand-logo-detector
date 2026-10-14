@@ -1,1 +1,2 @@
-"""Backend package."""
+"""Brand Logo Detector application package."""
+__version__ = "2.0.0"
